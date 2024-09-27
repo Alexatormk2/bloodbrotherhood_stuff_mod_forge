@@ -1,0 +1,7 @@
+{
+"parent": "minecraft:block/cube_all",
+"textures": {
+  "all": "brotherhoodstuff:block/deepslate_bloodtherite_ore"
+}
+
+}
